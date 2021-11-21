@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    padding: 20px;
+    background-color: #fff;
+}
+h3{
+    color: #AF7272;
+}
+div img{
+    max-width:100%;
+}
