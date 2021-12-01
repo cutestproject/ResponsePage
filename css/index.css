@@ -1,13 +1,17 @@
 .container{
     width: 100%;
-    padding: 20px;
     background-color: #fff;
+    padding-left: 20px;
+    margin-right: 20px;
     /* border-radius: 30px;
     background: rgb(212, 223, 252); */
+}
+div{
+    max-width: 95%;
 }
 h3{
     color: #AF7272;
 }
 div img{
-    max-width:100%;
+    max-width: 100%;
 }
